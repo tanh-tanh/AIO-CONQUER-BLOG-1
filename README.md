@@ -1,3 +1,4 @@
+# Mục lục:
 # 1.Giới thiệu tổng quan về Machine Learning
 ## 1.1. Định nghĩa cơ bản (ML là gì, v..)
 ## 1.2. Lập trình truyền thống vs ML
@@ -38,3 +39,14 @@ Tinh chỉnh tham số (Hyperparameter tuning) để kết quả tốt hơn.
 ## 5.3. Các bước code
 
 # Kết luận
+
+
+
+# Phân việc:
+|Phần | Người đảm nhiệm|
+|--|--|
+|1| Dương Khánh Ly |
+|2|Trần Đăng Linh|
+|3|Lê Nguyễn Hải Giang|
+|4|Hoàng Đinh Tuấn Anh|
+|5|Bùi Chí Tài|
