@@ -180,7 +180,7 @@ Chúng ta sẽ dùng Python và scikit-learn, thư viện này rất thân thi�
 Trước khi bắt tay vào, hãy chuẩn bị nhé. Đây là những thứ cơ bản thôi – không có gì cầu kỳ, và tất cả đều miễn phí hoặc dễ cài.
 
 - **Python**: Phiên bản 3.8 trở lên. Nếu chưa có, tải từ python.org. Đây là ngôn ngữ phổ biến nhất cho học máy nhờ sự đơn giản và cộng đồng hỗ trợ lớn.
-- **Môi trường**: Mình recommend Jupyter Notebook (cài qua Anaconda cho tiện) vì nó cho phép chạy code theo ô, xem kết quả ngay, và xen lẫn giải thích. Hoặc dùng Google Colab cũng hay – online, miễn phí, không cần cài đặt; chỉ cần đăng nhập Google là code được. Còn tiện chia sẻ notebook nữa.
+- **Môi trường**: Mình khuyến khích dùng Jupyter Notebook (cài qua Anaconda cho tiện) vì nó cho phép chạy code theo ô, xem kết quả ngay, và xen lẫn giải thích. Hoặc dùng Google Colab cũng hay – online, miễn phí, không cần cài đặt; chỉ cần đăng nhập Google là code được. Còn tiện chia sẻ notebook nữa.
 - **Thư viện**: Đây là các package Python giúp tăng sức mạnh cho học máy. Cài một lần qua terminal hoặc Colab bằng lệnh:
   ```bash
   pip install numpy pandas matplotlib seaborn scikit-learn
@@ -329,3 +329,13 @@ Mình phân tích kỹ hơn để bạn nắm rõ lý do làm từng bước.
 - **Cải thiện**: Đây là tune hyperparameter. k nhỏ quá thì overfit nhiễu, lớn quá thì underfit pattern. Ta loop và plot để tìm điểm ngọt (thường 3-7 ở đây). Trong dự án thực, dùng GridSearchCV tự động.
 
 **Kết quả Thường thấy**: Với chia này, độ chính xác hay đạt 1.000 (100%), vì Iris dễ. Với dữ liệu khó hơn, 80-90% là tốt. Chạy lại với random_state khác có thể giảm nhẹ – đó là biến động.
+## Kết luận
+
+Machine Learning không chỉ là những dòng code khô khan, mà là tư duy biến dữ liệu thành giá trị thực tế. Hy vọng qua bài viết này, bạn đã nắm vững nền tảng để tự tin xây dựng mô hình đầu tiên. Hãy mở máy và thực hành ngay hôm nay, vì hành trình chinh phục AI luôn bắt đầu từ những bước đi đơn giản nhất.
+
+## Tài liệu tham khảo:
+(2026). Mindlabinc.ca. https://mindlabinc.ca/wp-content/uploads/2024/05/Machine-Learning.webp
+
+Sarker, I. H. (2021). Machine Learning: Algorithms, Real-World Applications and Research Directions. SN Computer Science, 2(3), 1–21. Springer. https://link.springer.com/article/10.1007/s42979-021-00592-x
+
+‌
