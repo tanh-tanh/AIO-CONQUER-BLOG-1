@@ -27,7 +27,7 @@ Cá nhân hóa lộ trình của người học
 #### 2.2.1 Học tập ngắt quãng
 Định nghĩa: Học tập ngắt quãng là phương pháp ghi nhớ, ôn tập kiến thức theo khoảng cách thời gian cố định. \
 Công cụ: Flashcards, Quiz \
-Bản chất: **"*Gặp*" lại kiến thức thi não bộ bắt đầu quên**
+Bản chất: **"*Gặp*" lại kiến thức thi não bộ bắt đầu quên** \
 Phương pháp dựa trên "*Đường cong quên lãng*" – Hermann Ebbinghaus
 
 Hướng dẫn: 
