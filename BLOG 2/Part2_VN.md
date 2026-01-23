@@ -5,7 +5,7 @@ Làm thế nào để biết bản thân phù hợp với lối học tập nào
 Trước hết, hãy trả lời các câu hỏi sau:
 1. Thời gian 
 - Não bộ chỉ tiếp nhận lượng thông tin nhất định trong thời gian nhất định. Vì vậy, bạn cần cân nhắc thời lượng học tập là bao nhiêu: 1 tuần, 1 tháng, 6 tháng hay 1 năm.\
-    Ví dụ minh họa cho lộ trình trong 1 tuần học 
+    Ví dụ minh họa cho lộ trình trong 1 tuần học.
 
     |Thứ 2|Thứ 3|Thứ 4|Thứ 5|...|Chủ Nhật|
     |---|---|---|------|---------|-----|
